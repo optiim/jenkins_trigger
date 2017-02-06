@@ -10,10 +10,6 @@ namespace UnitTestProject1
         public void TestMethod1()
         {
             int abc;
-            int cvd;
-            int abcd;
-            int csscc;
-            int aabdb;
-        }
+          
     }
 }
