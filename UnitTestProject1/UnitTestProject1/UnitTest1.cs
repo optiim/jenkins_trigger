@@ -12,6 +12,7 @@ namespace UnitTestProject1
             int abc;
             int cvd;
             int abcd;
+            int ccc;
         }
     }
 }
