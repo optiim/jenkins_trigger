@@ -11,7 +11,7 @@ namespace UnitTestProject1
         {
             int abc;
             int cvd;
-            int abc;
+            int abcd;
         }
     }
 }
