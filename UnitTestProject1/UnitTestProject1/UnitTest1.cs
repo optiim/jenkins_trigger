@@ -13,7 +13,7 @@ namespace UnitTestProject1
             int cvd;
             int abcd;
             int ccc;
-            int aaa;
+            int aa;
         }
     }
 }
