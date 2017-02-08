@@ -1,6 +1,5 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,7 +13,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1(string[] args)
         {
-
+        
             int r, m1, m2, m3, t;
             float p;
             string n;
