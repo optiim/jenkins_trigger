@@ -10,7 +10,7 @@ namespace UnitTestProject1
         public void TestMethod1()
         {
 
-            int demo1;
+            int demo111;
 
           
     }
