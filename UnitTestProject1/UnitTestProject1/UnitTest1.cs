@@ -9,9 +9,8 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
-           
-          int demo;
-            int demo1;
+
+            int demo;
 
           
     }
