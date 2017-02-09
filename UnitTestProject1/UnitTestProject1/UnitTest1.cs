@@ -14,7 +14,7 @@ namespace UnitTestProject1
         public void TestMethod1(string[] args)
         {
 
-            int r, m1, m2, m3, t;
+            int r1, m1, m2, m3, t;
             float p;
             string n;
             Console.WriteLine("Enter Roll Number :");
